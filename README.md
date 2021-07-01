@@ -1,1 +1,1 @@
-# bitirme_lipnet
+# Karadeniz Teknik Üniversitesi Bilgisayar Mühendisliği Bölümü, Bitirme Projesi için yapmış olduğum "Derin Öğrenme ile Bilgisayarlı Dudak Okuma ve LipNet Mimarisi" adlı projeye ait kaynak kod, veri seti ve diğer dosyalar
